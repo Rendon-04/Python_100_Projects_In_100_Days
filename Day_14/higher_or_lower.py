@@ -36,3 +36,5 @@ while play_game:
 
     user_answer = input("Who has more followers, type A or B").lower()
     comparison(user_answer)
+
+
